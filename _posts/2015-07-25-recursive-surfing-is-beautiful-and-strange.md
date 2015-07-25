@@ -11,8 +11,8 @@ description: How this was even edited is beyond our understanding. All we know i
 app_links: []
 isBasedOnUrl: 'http://digg.com/video/waveform-stefan-nadelman-surfing-unreasonable'
 title: Recursive Surfing Is Beautiful And Strange
-datePublished: '2015-07-25T21:09:46.383Z'
-dateModified: '2015-07-25T21:09:46.383Z'
+datePublished: '2015-07-25T21:09:46.516Z'
+dateModified: '2015-07-25T21:09:46.516Z'
 sourcePath: _posts/2015-07-25-recursive-surfing-is-beautiful-and-strange.md
 published: true
 _context: 'http://schema.org'
