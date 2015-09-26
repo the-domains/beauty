@@ -1,7 +1,7 @@
-name: null
+name: Beauty
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.94286
+typography_spectrum: 0.28286
 cta:
   domain: null
   bucket: null
@@ -15,10 +15,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  brandColors:
+    - '#ffffff'
+    - '#161a19'
+    - '#6e5c48'
+    - '#bbc4c9'
+    - '#ff7e84'
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: null
